@@ -14,7 +14,7 @@ A data analysis project that explores factors affecting sleep quality using Pyth
 
 ## Technologies
 - Python
-- SQL (SQLite)
+- SQL (MySQl)
 - pandas
 - matplotlib
 - seaborn
